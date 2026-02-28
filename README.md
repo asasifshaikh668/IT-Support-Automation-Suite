@@ -1,2 +1,2 @@
-# IT-Helpdesk-Toolkit-GUI
-A professional PowerShell WinForms GUI designed for IT Helpdesk / Desktop Support / Technical Support professionals to automate diagnostics, hardware health, log auditing, and network troubleshooting with a single click.
+# IT-Support-Automation-Suite 🛠️
+A professional PowerShell WinForms diagnostic and automation tool designed for Helpdesk, Desktop, and Technical Support Engineers. A comprehensive, GUI-based PowerShell utility designed to standardize troubleshooting, accelerate resolution times, and empower IT professionals.
